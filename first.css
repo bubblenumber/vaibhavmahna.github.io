@@ -119,9 +119,9 @@ html,.row
 	{
 		padding-left: 115px;
 	}
-	.wrap3
+	.wrap3 p
 	{
-		padding-top:120px;
-		font-size:1px;
+		padding-top:20px;
+		font-size:10px;
 	}
 }

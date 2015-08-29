@@ -107,9 +107,9 @@ html,.row
         font-size: 2px;
     }
 }
-@media all and (min-width: 200px) and (max-width: 600px) and  (orientation:landscape){
+@media all and (min-width: 200px) and (max-width: 1200px) and  (orientation:landscape){
  li
  {
- 	font-size:80px;
+ 	font-size: 80px;
  }
 }

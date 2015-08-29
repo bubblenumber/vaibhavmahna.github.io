@@ -110,7 +110,6 @@ html,.row
 @media all and (min-width: 200px) and (max-width: 600px) and  (orientation:landscape){
  li
  {
- 	fontsize:80px;
+ 	font-size:80px;
  }
 }
- }

@@ -107,24 +107,3 @@ html,.row
         font-size: 2px;
     }
 }
-@media all and (min-width: 361px) and (maximum-width:768px) {
-    .wrap2{
-        font-size: 20px;
-    }
-    li
-    {
-    	font-size: 30px;
-        padding-left: 4px;
-    }
-    ul
-    {
-    	padding-left: 40px;
-
-    }
-    .wrap3
-    {
-        padding-top: 120px;
-        font-size: 2px;
-    }
-}
-

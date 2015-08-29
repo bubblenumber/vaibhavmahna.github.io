@@ -102,23 +102,4 @@ html,.row
         font-size: 2px;
     }
 }
-@media all and (min-width: 700px) and (max-width: 1200px){
-    .wrap2{
-        font-size: 16px;
-    }
-    li
-    {
-        font-size: 30px;
-        padding-left: 20px;
-    }
-    ul
-    {
-        padding-left: 420px;
 
-    }
-    .wrap3
-    {
-        padding-top: 160px;
-        font-size: 2px;
-    }
-}

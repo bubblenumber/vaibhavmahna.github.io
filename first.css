@@ -86,7 +86,7 @@ html,.row
     	padding-top: 120px;
     }
 }
-@media all and (min-width: 601px) and (max-width: 1199) {
+@media all and (min-width: 200px) and (max-width: 600px) and (orientation:landscape) {
     .wrap2{
         font-size: 20px;
     }

@@ -66,7 +66,7 @@ html,.row
 {
 		background-color: #18bc9c;
 }
-@media all and (max-width: 361px) and{
+@media all and (max-width: 361px){
     .wrap2,.wrap5{
         font-size: 14px;
     }
@@ -122,6 +122,6 @@ html,.row
 	.wrap3 p
 	{
 		padding-top:20px;
-		font-size:5px;
+		font-size:10px;
 	}
 }

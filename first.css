@@ -66,7 +66,7 @@ html,.row
 {
 		background-color: #18bc9c;
 }
-@media all and (max-width: 361px){
+@media all and (max-width: 361px) and{
     .wrap2,.wrap5{
         font-size: 14px;
     }
@@ -108,7 +108,7 @@ html,.row
         font-size: 2px;
     }
 }
-@media all and (min-width: 362px){
+@media all and (min-width: 362px) and (max-width:760px){
 	li
 	{
 		font-size: 25px ;

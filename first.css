@@ -88,16 +88,16 @@ html,.row
 }
 @media all and (min-width: 200px) and (max-width: 600px) and (orientation:landscape) {
     .wrap2{
-        font-size: 20px;
+        font-size: 18px;
     }
     li
     {
-    	font-size: 25px;
-        padding-left: 20px;
+    	font-size: 15px;
+        padding-left: 10px;
     }
     ul
     {
-    	padding-left: 50px;
+    	padding-left: 30px;
 
     }
     .wrap3

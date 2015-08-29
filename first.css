@@ -107,3 +107,10 @@ html,.row
         font-size: 2px;
     }
 }
+@media all and (min-width: 200px) and (max-width: 600px) and  (orientation:landscape){
+ li
+ {
+ 	fontsize:80px;
+ }
+}
+ }

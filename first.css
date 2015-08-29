@@ -107,10 +107,14 @@ html,.row
         font-size: 2px;
     }
 }
-@media all and (max-width: 361px){
+@media all and (min-width: 361px){
 	li
 	{
 		font-size: 25px ;
 		padding-left: 4px ;
+	}
+	ul
+	{
+		padding-left: 40px;
 	}
 }

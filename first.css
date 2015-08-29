@@ -107,7 +107,7 @@ html,.row
         font-size: 2px;
     }
 }
-@media all and (min-width: 361px) {
+@media all and (min-width: 361px) and (maximum-width:768px) {
     .wrap2{
         font-size: 20px;
     }

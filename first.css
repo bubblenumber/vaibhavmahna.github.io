@@ -82,7 +82,7 @@ html,.row
     	padding-top: 120px;
     }
 }
-@media all and (min-width: 1000px) {
+@media all and (min-width: 1200px) {
     .wrap2{
         font-size: 20px;
     }
@@ -102,7 +102,7 @@ html,.row
         font-size: 2px;
     }
 }
-@media all and (min-width: 700px) {
+@media all and (min-width: 700px) and (max-width: 1200px){
     .wrap2{
         font-size: 16px;
     }

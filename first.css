@@ -113,17 +113,17 @@ html,.row
     }
     li
     {
-    	font-size: 90px;
-        padding-left: 20px;
+    	font-size: 30px;
+        padding-left: 4px;
     }
     ul
     {
-    	padding-left: 420px;
+    	padding-left: 100px;
 
     }
     .wrap3
     {
-        padding-top: 160px;
+        padding-top: 120px;
         font-size: 2px;
     }
 }

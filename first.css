@@ -84,6 +84,7 @@ html,.row
     .wrap3
     {
     	padding-top: 120px;
+    	font-size:1px;
     }
 }
 
@@ -116,5 +117,10 @@ html,.row
 	ul
 	{
 		padding-left: 115px;
+	}
+	.wrap3
+	{
+		padding-top:120px;
+		font-size:1px;
 	}
 }

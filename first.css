@@ -47,7 +47,7 @@ a:hover
 	text-align: center;
 	color: white;
 }
-.wrap .row 
+.wrap .row , .wrap3
 {
 	background-color: #18bc9c;
 }

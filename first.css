@@ -89,7 +89,7 @@ html,.row
     }
 }
 
-@media all and (min-width: 761px){
+@media all and (min-width: 1200px){
     .wrap2{
         font-size: 20px;
     }
@@ -111,6 +111,23 @@ html,.row
     }
 }
 @media all and (min-width: 362px) and (max-width:760px){
+	li
+	{
+		font-size: 25px ;
+		padding-left: 5px ;
+	}
+	ul
+	{
+		padding-left: 115px;
+	}
+	.wrap3 p
+	{
+		padding-top:100px;
+		font-size:10px;
+		color: black;
+	}
+}
+@media all and (min-width: 761px) and (max-width:1199px){
 	li
 	{
 		font-size: 25px ;

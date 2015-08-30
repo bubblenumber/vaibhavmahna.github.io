@@ -72,9 +72,7 @@ html,.row
     }
     ul
     {
-    	
-	padding-left:1px;
-	padding-bottom: 150px;
+	padding-left:4px;
     }
     li
     {
@@ -85,6 +83,7 @@ html,.row
     {
     	font-size:10px;
     	color: black;
+    	padding-top: 150px;
     }
 }
 

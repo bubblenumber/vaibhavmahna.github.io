@@ -89,7 +89,7 @@ html,.row
     }
 }
 
-@media all and (min-width: 1200px) {
+@media all and (min-width: 761px){
     .wrap2{
         font-size: 20px;
     }
@@ -126,38 +126,4 @@ html,.row
 		font-size:10px;
 		color: black;
 	}
-}
-@media all and (min-device-width: 768px) and (max-device-width: 1199px) and (orientation : portrait){
-  li
-  {
-  	font-size: 30px;
-  	padding-left: 7px;
-  }
-  ul
-  {
-  	padding-left: 120px;
-  }
-  .wrap3 p
-  {
-  	padding-left: 100px;
-  	color: black;
-  	font-size: 18px;
-  }
-}
-@media all and (min-device-width: 768px) and (max-device-width: 1199px) and (orientation : landscape){
-  li
-  {
-  	font-size: 30px;
-  	padding-left: 7px;
-  }
-  ul
-  {
-  	padding-left: 120px;
-  }
-  .wrap3 p
-  {
-  	padding-left: 100px;
-  	color: black;
-  	font-size: 18px;
-  }
 }

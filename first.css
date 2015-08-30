@@ -127,7 +127,7 @@ html,.row
 		color: black;
 	}
 }
-@media screen and (min-device-width: 768px) and (max-device-width: 1199px) and (orientation : portrait){
+@media all and (min-device-width: 768px) and (max-device-width: 1199px) and (orientation : portrait){
   li
   {
   	font-size: 30px;
@@ -144,7 +144,7 @@ html,.row
   	font-size: 18px;
   }
 }
-@media screen and (min-device-width: 768px) and (max-device-width: 1199px) and (orientation : landscape){
+@media all and (min-device-width: 768px) and (max-device-width: 1199px) and (orientation : landscape){
   li
   {
   	font-size: 30px;
